@@ -14,7 +14,7 @@ console.log('password:' , password );
 document.getElementById('nomCogCol').innerHTML = `
 <p>   
 Ciao <strong>${nomeUtenteCompleto}</strong> !<br>
- Questa è la tua password: ${password}
+ Questa è la tua password: <strong class= color>${password}</strong> 
 </p>
 `
 

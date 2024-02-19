@@ -1,0 +1,16 @@
+.color {
+  color: #513ff0;
+  font-size: 1.5rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+  border-style: inset;
+  padding: 0 20px;
+}
+
+body {
+ background-image: url(https://img.freepik.com/premium-photo/simple-white-background-with-smooth-lines-light-colors_476363-5552.jpg?w=1060);
+ background-repeat: no-repeat;
+ background-size: cover;
+}

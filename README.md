@@ -7,10 +7,10 @@ Infine scrivi sulla pagina nomecognomecolorepreferito24
 
 - README.md (commit->push)
 
-- Milestone 1
+- Milestone 1:
 Stampare in console il risultato (commit->push)
 
-- Milestone 2
+- Milestone 2:
 Stamparlo in pagina in un tag HTML (commit->push)
 ## Svolgimento
 
