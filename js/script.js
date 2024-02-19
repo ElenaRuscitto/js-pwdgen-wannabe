@@ -10,7 +10,8 @@ console.log('nome Utente Completo: ' , nomeUtenteCompleto)
 
 document.getElementById('nomCogCol').innerHTML = `
 <p>   
-${nomeUtenteCompleto}${colorePreferitoUtente}24
+Ciao <strong>${nomeUtente + ' ' + cognomeUtente}</strong> !<br>
+ Questa è la tua password: ${nomeUtenteCompleto}${colorePreferitoUtente}24
 </p>
 `
 
